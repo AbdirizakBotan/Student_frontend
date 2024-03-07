@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.active{
+    color: #f88807;
+}
+#img{
+    background-image: url("assets/complaint.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+#student{
+    background-image: url("https://assets.globalpartnership.org/s3fs-public/styles/hero_stories/public/2023-05/2z8a9932.jpg?VersionId=gcXhqH6niJksoTq1xs01ZHZVCm7mYvNe&itok=MuWTUP5u");
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(40px);
+    backdrop-filter: brightness(.9);
+}
+#hero{
+    background-image: url("https://assets.globalpartnership.org/s3fs-public/styles/hero_stories/public/2023-05/2z8a9932.jpg?VersionId=gcXhqH6niJksoTq1xs01ZHZVCm7mYvNe&itok=MuWTUP5u");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
